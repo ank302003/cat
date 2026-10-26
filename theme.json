@@ -41,3 +41,9 @@
     "channel-muted": "var(--interactive-muted)",
     "channel-hover": "var(--interactive-hover)",
     "channel-selected": "var(--interactive-active)",
+    "channel-selected-bg": "var(--main-color)",
+    "channel-unread": "var(--main-color)",
+    "channel-unread-hover": "var(--hover-color)",
+    "focus-color": "var(--main-color)"
+  }
+}
